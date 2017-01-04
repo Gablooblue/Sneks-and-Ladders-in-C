@@ -1,0 +1,44 @@
+USER'S MANUAL
+
+1. Rules
+-Start the game by pressing 1.
+-Pick how many human players will be playing. 
+ You can have a maximum of 4 players. The
+ remaining slots will be filled by CPUs.
+-Pick a single symbol for each player and CPU.
+-Press enter to roll the dice.
+-Landing on a space with the ladder base (B#) will
+ cause the player to move up to ladder peak (P#)
+-Landing on a space with the snake head (H#) will
+ cause the player to move down to the snake tail (T#)
+-The first player to reach the last tile
+ of the board wins!
+
+2. Commands
+While on the main menu...
+ Press 1 to start a game
+ Press 2 to open the user's manual
+ Press 3 to view the game history
+ Press 4 to view credits
+ Press 5 to quit
+While in a game...
+ Press enter to roll the dice
+
+3. Editing the Snakes and Ladder's Board
+-Open the file that reads SneksEdit
+-On the space you wish to put a snake or a ladder, put
+ the corresponding letter combination
+
+ [B] Base of ladder      [P] Peak of ladder
+ [H] Head of snake       [T] Tail of snake
+
+-Add a number beside the letter to associate the base
+ with the peek or the head with the tail
+
+ Example: B2 and P2  /  H3 and T3
+
+4. Credits
+Program made by:
+Gabriel Lopez
+Jose Mendez
+Cris Nazario
